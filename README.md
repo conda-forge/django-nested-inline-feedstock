@@ -5,7 +5,7 @@ Home: https://github.com/s-block/django-nested-inline
 
 Package license: MIT License
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Recursive nesting of inline forms for Django Admin
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/django-nested-inline-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/django-nested-inline-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/django-nested-inline-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/django-nested-inline-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/django-nested-inline-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/django-nested-inline-feedstock/branch/master)
