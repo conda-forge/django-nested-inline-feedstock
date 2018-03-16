@@ -1,6 +1,6 @@
 {% set name = "django-nested-inline" %}
-{% set version = "0.3.6" %}
-{% set md5 = "7bb27f0a813f8bb14a3ffcbc31f3a6b1" %}
+{% set version = "0.3.7" %}
+{% set md5 = "84e153f123e7801963e22424916bcc8b" %}
 {% set build = 0 %}
 
 package:
@@ -15,7 +15,7 @@ source:
         - zipsafe.patch
 
 build:
-    number: {{ build }}
+    number: 0
     script: python setup.py install --single-version-externally-managed --record=record.txt
 
 requirements:
