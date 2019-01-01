@@ -16,9 +16,8 @@ Summary: Recursive nesting of inline forms for Django Admin
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/django-nested-inline-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/django-nested-inline-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/django-nested-inline-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/django-nested-inline-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/django-nested-inline-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/django-nested-inline-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/django-nested-inline-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/django-nested-inline-feedstock)
 
 Current release info
 ====================
