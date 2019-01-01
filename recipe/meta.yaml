@@ -16,7 +16,7 @@ source:
 
 build:
     number: {{ build }}
-    script: python setup.py install --single-version-externally-managed --record=record.txt
+    script: "{{ PYTHON }} -m pip install . -vv"
 
 requirements:
     build:
@@ -32,7 +32,7 @@ test:
 
 about:
     home: https://github.com/s-block/django-nested-inline
-    license: MIT License
+    license: MIT
     summary: Recursive nesting of inline forms for Django Admin
 
 extra:
