@@ -1,6 +1,6 @@
 {% set name = "django-nested-inline" %}
-{% set version = "0.4.0" %}
-{% set md5 = "f05f0e03e2cd0e7f2880890478336f30" %}
+{% set version = "0.4.1" %}
+{% set md5 = "6991e510e4b688ae9a545ab4bcdb4f00" %}
 {% set build = 0 %}
 
 package:
